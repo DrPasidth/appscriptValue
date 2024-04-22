@@ -133,4 +133,8 @@ function doGet(e) {
     result = 'Written on column C';
     break;
 
-//end
+//เมื่อแก้ไขแล้วให้ทำการ New Delpoyment และ copy Deployment ID ไปที่กล่องอุปกรณ์ใช้คำสั่ง
+*gsheetC=.....................;
+หรือ
+*gsheetT=.....................;
+
